@@ -1,6 +1,6 @@
 # tesla-stock-analysis-or-final-assignment-notebook.
 
-Question 1 - Extracting Tesla Stock Data Using yfinance 
+Question 1 - Extracting Tesla Stock Data Using yfinance /n
 Question 2 - Extracting Tesla Revenue Data Using Webscraping
 Question 3 - Extracting GameStop Stock Data Using yfinance 
 Question 4 - Extracting GameStop Revenue Data Using Webscraping 
